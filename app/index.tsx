@@ -4,7 +4,7 @@ import React from 'react'
 const index = () => {
   return (
     <View>
-      <Text>Avishka Vishmitha</Text>
+      <Text >Avishka Vishmitha arhgh</Text>
     </View>
   )
 }
